@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" name="Default" comment="" />
+    <list default="true" id="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/CommandsManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/TokenCommands.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TokenCommands.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387469659828" ignored="false" />
+    <file path="/Dummy.txt" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387478938755" ignored="false" />
+    <file path="/TokenCommands.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387472855621" ignored="false" />
+    <file path="$PROJECT_DIR$/../TokenAPI/src/main/java/co/mccn/tokenapi/TokenAPI.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387476013156" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReferFriend/src/main/java/co/mccn/referfriend/ReferJoin.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387470584045" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReferFriend/src/main/java/co/mccn/referfriend/ReferFriend.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387479669896" ignored="false" />
+    <file path="/ReferFriend.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387471073669" ignored="false" />
+    <file path="/Commands.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387480591197" ignored="false" />
+    <file path="/CommandsManager.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387479592505" ignored="false" />
+    <file path="/Exceptions.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387474232521" ignored="false" />
+    <file path="$PROJECT_DIR$/../EloCombat/src/main/java/co/mccn/elocombat/EloCombat.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387474298149" ignored="false" />
+    <file path="/EloCombat.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387474296836" ignored="false" />
+    <file path="$PROJECT_DIR$/../TokenAPI/src/main/java/co/mccn/tokenapi/Events.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387476433756" ignored="false" />
+    <file path="/Events.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387476430865" ignored="false" />
+    <file path="/TokenAPI.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387476009277" ignored="false" />
+    <file path="$PROJECT_DIR$/../TokenAPI/src/main/java/co/mccn/tokenapi/Database.java" changelist="aeae8997-93ba-4d79-b2d9-3a2c372fd16e" time="1387477409069" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +82,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="46" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.37757438">
+            <state line="29" column="43" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TokenCommands.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/TokenCommands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="4" selection-start="334" selection-end="334" vertical-scroll-proportion="0.23394495">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandsManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/CommandsManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="58" selection-start="4306" selection-end="4306" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,6 +141,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/Commands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/TokenCommands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/Exceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/exceptions/InsufficientPermissionsException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/CommandsManager.java" />
       </list>
     </option>
   </component>
@@ -160,6 +206,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TokenCommands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TokenCommands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TokenCommands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TokenCommands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TokenCommands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TokenCommands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tokencommands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -167,9 +275,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReferFriend" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -373,6 +483,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="67" selection-start="0" selection-end="55" vertical-scroll-proportion="0.07798165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="43" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TokenCommands.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -380,10 +504,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/CommandsManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="46" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.37757438">
-          <folding />
+        <state line="92" column="58" selection-start="4306" selection-end="4306" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/mccn/tokencommands/TokenCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="334" selection-end="334" vertical-scroll-proportion="0.23394495">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
