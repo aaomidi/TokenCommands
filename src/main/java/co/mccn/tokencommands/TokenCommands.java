@@ -1,17 +1,20 @@
 package co.mccn.tokencommands;
 
 import co.mccn.tokenapi.TokenAPI;
+import org.bukkit.OfflinePlayer;
 import org.bukkit.command.Command;
 import org.bukkit.command.PluginCommandYamlParser;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.File;
+import java.util.HashMap;
 import java.util.logging.Level;
 
 public class TokenCommands extends JavaPlugin {
     public TokenAPI tokenAPI;
     private CommandsManager commandsManager;
+    private HashMap<Integer, String> playerList = new HashMap<>();
 
     @Override
     public final void onLoad() {
@@ -36,10 +39,13 @@ public class TokenCommands extends JavaPlugin {
         }
     }
 
+    @Override
     public final void onDisable() {
         tokenAPI.updateDatabase();
 
     }
 
-
+    public final HashMap<Integer, String> getPlayerList() {
+        return this.playerList;
+    }
 }
