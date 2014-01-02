@@ -1,0 +1,8 @@
+name: TokenCommands
+main: co.mccn.tokencommands.TokenCommands
+version: 1.0-SNAPSHOT
+depend: [TokenAPI]
+commands:
+  token:
+    description: Access Token Commands
+    usage: Syntax error! Command is /token [player] [add/set] [-][value]
