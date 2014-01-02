@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Maven: co.mccn:tokenapi:1.0-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/tokenapi.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
